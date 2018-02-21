@@ -1,0 +1,14 @@
+{
+    "name": "aws/financeapi",
+    "description": "This package will help in getting fianace detials e.g Refund.",
+    "type": "api",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Shakir",
+            "email": "logicparadise.shakir@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
